@@ -1,0 +1,270 @@
+{
+    "URLA": {
+        "questions": [
+            {
+                "key": "lender_loan_number",
+                "question": "What is the Lender Loan No./Universal Loan Identifier?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "agency_case_number",
+                "question": "What is the Agency Case Number?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "name",
+                "question": "What is the full name?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "alternete_name",
+                "question": "What are the Alternate Name? return the response as a list",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "social_security_number",
+                "question": "What is the Social Security Number?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "date_of_birth",
+                "question": "What is the Date of Birth?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "citizenship",
+                "question": "What is the Citizenship of borrower?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "type_of_credit",
+                "question": "What is the type of credit?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "list_names_of_other_borrowers_applying_for_loan",
+                "question": "What are the names of other borrowers applying for loan?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "marital_status",
+                "question": "What is the marital status?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "Dependents_Number",
+                "question": "What are the numbers of dependents?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "Dependents_Ages",
+                "question": "What are the ages of dependents?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "contact_information_home_phone_number",
+                "question": "What is the borrower contact information home phone number?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "contact_information_cell_phone_number",
+                "question": "What is the borrower contact information cell phone number?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "contact_information_work_phone_number",
+                "question": "What is the borrower contact information work phone number?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "contact_information_email",
+                "question": "What is the borrower  email?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "contact_information_ext",
+                "question": "What is the contact information ext_number?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "current_address_full_street_name",
+                "question": "What is the borrower current address street name?",
+                "entity_type": "key_value"
+            },
+             {
+                "key": "current_address_unit",
+                "question": "What is the borrower current address unit?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "current_address_city_name",
+                "question": "What is the borrower current address city name?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "current_address_state",
+                "question": "What is the borrower current address state name?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "current_address_zip_code",
+                "question": "What is the borrower current address zip code?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "current_address_country_name",
+                "question": "What is the borrower current address country name?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "long_at_current_address_years",
+                "question": "How long current address  current address?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "current_address_housing_type",
+                "question": "What is the housing_type?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "if_at_current_address_for_less_than_2_years_list_former_address_street_name",
+                "question": "What is the borrower former address street name?",
+                "entity_type": "key_value"
+            },
+             {
+                "key": "former_address_unit",
+                "question": "What is the borrower former address unit?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "former_address_city_name",
+                "question": "What is the borrower former address city name?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "former_address_state",
+                "question": "What is the borrower former address state name?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "former_address_zip_code",
+                "question": "What is the borrower former address zip code?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "former_address_country_name",
+                "question": "What is the borrower former address country name?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "long_at_current_address_years",
+                "question": "How long current former  current address?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "former_address_housing_type",
+                "question": "What is the housing_type?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "mailing_address_street_name",
+                "question": "What is the borrower mailing address street name?",
+                "entity_type": "key_value"
+            },
+             {
+                "key": "mailing_address_unit",
+                "question": "What is the borrower mailing address unit?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "mailing_address_city_name",
+                "question": "What is the borrower mailing address city name?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "mailing_address_state",
+                "question": "What is the borrower mailing address state name?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "mailing_address_zip_code",
+                "question": "What is the borrower mailing address zip code?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "mailing_address_country_name",
+                "question": "What is the borrower mailing address country name?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "employer_or_business_name",
+                "question": "What is the employer and business name?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "business_phone",
+                "question": "What is the business phone number?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "employement_address_street_name",
+                "question": "What is the employment address street name?",
+                "entity_type": "key_value"
+            },
+             {
+                "key": "employement_address_unit",
+                "question": "What is the employment address unit?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "employement_address_city_name",
+                "question": "What is the employment address city name?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "employement_address_state",
+                "question": "What is the employement address state name?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "employement_address_zip_code",
+                "question": "What is the employement address zip code?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "employement_address_country_name",
+                "question": "What is the employement address country name?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "position_or_title",
+                "question": "What is the position or title?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "start_date",
+                "question": "What is the start date?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "long_in_this_line_of_work",
+                "question": "how long in this line of work in years and months?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "check_statement_applies",
+                "question": "What is the statement applied for employement?",
+                "entity_type": "key_value"
+            },
+            {
+                "key": "gross_monthly_income",
+                "question": "What is the gross monthly income?",
+                "entity_type": "key_value"
+            }
+            
+            
+    
+    
+        ]
+    }
+}
